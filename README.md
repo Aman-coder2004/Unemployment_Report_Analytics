@@ -68,6 +68,11 @@ Dataset used in this project:
 
 ([Monthly_Trends](https://github.com/Aman-coder2004/Unemployment_Report_Analytics/blob/main/Monthly_Report.jpeg))
 
+👨‍💻 Author
+AMAN KUMAR
+
+
+
 📌 Key Insights
 Unemployment rates increased drastically during 2020 due to COVID-19 lockdowns.
 Some Indian states experienced significantly higher unemployment compared to others.
