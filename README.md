@@ -59,6 +59,11 @@ Dataset used in this project:
 
 🔗 Unemployment in India Dataset – Kaggle
 
+# 🌐 Live Dashboard
+
+🔗 Power BI Dashboard Link:
+https://app.powerbi.com/reportEmbed?reportId=51b42d0e-ad7a-46f8-9e55-958b4096757f&autoAuth=true&ctid=e93d71d6-b5c0-4b78-a861-d9964ecdfcd6
+
 📷 Dashboard Screenshots
 🔹 Main Dashboard
 
