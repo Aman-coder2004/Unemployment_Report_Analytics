@@ -1,8 +1,5 @@
 # Unemployment_Report_Analytics
-A interactive Dashboard in Power Bi for Analyzing the differences in unemployment in India before and after Covid.
-🇮🇳 Unemployment Analytics Dashboard (India)
 📌 Project Overview
-
 This project is an interactive Power BI Dashboard that analyzes unemployment trends in India during 2019 and 2020, with a major focus on the impact of the COVID-19 pandemic on employment across states, areas, and months.
 
 The dashboard provides insights into:
@@ -78,19 +75,4 @@ Unemployment rates increased drastically during 2020 due to COVID-19 lockdowns.
 Some Indian states experienced significantly higher unemployment compared to others.
 Urban areas showed stronger unemployment fluctuations during lockdown periods.
 Employment levels dropped sharply in mid-2020 and gradually recovered later.
-🚀 Future Enhancements
-Add forecasting models for unemployment prediction
-Include GDP and inflation comparison
-Create real-time dashboard integration
-Add district-level unemployment analysis
-📁 Project Structure
-📦 Unemployment-Analytics-Dashboard
- ┣ 📂 Dataset
- ┣ 📂 Screenshots
- ┣ 📄 Unemployment_Analytics.pbix
- ┣ 📄 README.md
-▶️ How to Use
-Download the .pbix file
-Open using Power BI Desktop
-Load the dataset if required
-Explore interactive dashboard visuals and filters
+
