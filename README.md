@@ -64,11 +64,11 @@ Dataset used in this project:
 📷 Dashboard Screenshots
 🔹 Main Dashboard
 
-([Add Screenshot Here](https://github.com/Aman-coder2004/Unemployment_Report_Analytics/blob/main/Unemployment_Analytics.jpeg))
+([Main_Dashboard](https://github.com/Aman-coder2004/Unemployment_Report_Analytics/blob/main/Unemployment_Analytics.jpeg))
 
 🔹 Monthly Analysis Dashboard
 
-(Add Screenshot Here)
+([Monthly_Trends](https://github.com/Aman-coder2004/Unemployment_Report_Analytics/blob/main/Monthly_Report.jpeg))
 
 📌 Key Insights
 Unemployment rates increased drastically during 2020 due to COVID-19 lockdowns.
