@@ -8,8 +8,8 @@ State-wise unemployment trends
 Urban vs Rural unemployment comparison
 Month-wise unemployment fluctuations
 Employment comparison between 2019 and 2020
-🎯 Problem Statement
 
+🎯 Problem Statement
 The COVID-19 outbreak in 2020 severely affected the Indian economy.
 Lockdowns, business shutdowns, migration crises, and reduced industrial activity led to a rapid increase in unemployment across the country.
 
@@ -30,18 +30,16 @@ The dashboard helps users understand how employment patterns changed during the 
 📑 CSV Dataset
 📉 Data Visualization
 📊 Dashboard Pages
+
 🔹 1. Unemployment Analytics
-
 This dashboard page provides:
-
 State-wise unemployment analysis
 Area-wise unemployment comparison
 Total employed population insights
 Overall unemployment KPIs
+
 🔹 2. Monthly Analysis
-
 This page focuses on:
-
 Month-wise unemployment trends
 Pandemic impact across months
 Unemployment spikes during lockdown periods
