@@ -64,7 +64,7 @@ Dataset used in this project:
 📷 Dashboard Screenshots
 🔹 Main Dashboard
 
-(Add Screenshot Here)
+([Add Screenshot Here](https://github.com/Aman-coder2004/Unemployment_Report_Analytics/blob/main/Unemployment_Analytics.jpeg))
 
 🔹 Monthly Analysis Dashboard
 
