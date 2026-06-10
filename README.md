@@ -78,5 +78,5 @@ Urban areas showed stronger unemployment fluctuations during lockdown periods.
 AMAN KUMAR
 
 
-Employment levels dropped sharply in mid-2020 and gradually recovered later.
+
 
